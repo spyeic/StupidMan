@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "stupidman",
+  "version": "0.0.1",
+  "name": "spyeic",
+  "mixins": [
+  ],
+  "entrypoints": {
+    "main": [
+      "com.spyeic.stupidman.StupidMan"
+    ],
+    "client": [
+      "com.spyeic.stupidman.ClientEntryPoint"
+    ]
+  }
+}
